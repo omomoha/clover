@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pluginspoint.com	TRUE	/	FALSE	1999999999	dwqa_anonymous	02Z5kLdrB3t3MMJROWi5co7DFgiFy4ikzsEDfH1xCMN
+

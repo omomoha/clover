@@ -1,0 +1,23 @@
+HTTrack3.49-2 launched on Wed, 12 Jan 2022 10:57:15 at https://pluginspoint.com/demo/consult-vita-preview/consult-vita/ none none
+(winhttrack https://pluginspoint.com/demo/consult-vita-preview/consult-vita/ -O "documents/clover" -P none:8080 -%v none none )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:59:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/robots.txt (from primary/primary)
+10:59:33	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link none/ (from primary/primary)
+11:04:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link none/ (from primary/primary)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/images/ui-icons_444444_256x240.png (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/jquery-ui.css)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/images/ui-icons_555555_256x240.png (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/jquery-ui.css)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/images/ui-icons_ffffff_256x240.png (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/jquery-ui.css)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/images/ui-icons_777620_256x240.png (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/jquery-ui.css)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/images/ui-icons_cc0000_256x240.png (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/jquery-ui.css)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/images/ui-icons_777777_256x240.png (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/jquery-ui.css)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/owl.video.play.png (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/css/owl.carousel.min.css)
+11:04:20	Error: 	"Not Found" (404) at link https://pluginspoint.com/demo/consult-vita-preview/consult-vita/idnex.html (from https://pluginspoint.com/demo/consult-vita-preview/consult-vita/09_gallery-grid.html)
+11:04:20	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 5 seconds : 302 links scanned, 289 files written (18775932 bytes overall) [15489269 bytes received at 36445 bytes/sec], 4880663 bytes transferred using HTTP compression in 90 files, ratio 23%, 4.1 requests per connection
+(10 errors, 2 warnings, 0 messages)
