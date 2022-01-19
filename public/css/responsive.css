@@ -706,7 +706,8 @@
     width: 270px;
   }
   .single-brand img {
-    height: 100%;
+    height: 100px;
+    width: 100px;
   }
   .single-blog .content .meta {
     display: block;
