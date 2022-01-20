@@ -643,7 +643,7 @@
             var values = "fname=" + fname + "&email=" + email + " &msg=" + msg;
             $.ajax({
                 type: "POST",
-                url: "mail.php",
+                url: "info@cloversamitconsulting.com",
                 data: values,
                 success: function () {
                     $('#fname').val('');

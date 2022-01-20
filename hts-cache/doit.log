@@ -1,8 +1,0 @@
-https://pluginspoint.com/demo/consult-vita-preview/consult-vita/ -O "documents/clover" -P none:8080 -%v none none
-File generated automatically on Wed, 12 Jan 2022 10:57:15, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
